@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @zixuan28
 - 🌱 I’m currently learning statistics
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me zixuan.lin@duke.edu
 - 😄 Pronouns: he/him
 
